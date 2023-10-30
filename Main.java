@@ -68,7 +68,7 @@ public class Main {
 //        int s = a/100;
 //        int d = a%100/10;
 //        int z = a%100%10;
-//        System.out.println("1 сан "+s+z+d+"\n"+"2 Сан "+d+s+z+"\n"+"3 Сан");
+//        System.out.println("1 сан "+s+z+d+"\n"+"2 Сан "+d+s+z+"\n"+"3 Сан "+d+z+s+"\n"+"4 Сан "+z+s+d+"\n"+"5 Сан "+z+d+s+"\n"+"6  Сан "+s+d+z);
 
 
 ////        10 Тапсырма
